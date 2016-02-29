@@ -1,0 +1,7 @@
+name 'assgn'
+maintainer 'The Authors'
+maintainer_email 'you@example.com'
+license 'all_rights'
+description 'Installs/Configures assgn'
+long_description 'Installs/Configures assgn'
+version '0.1.0'
